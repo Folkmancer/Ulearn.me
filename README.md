@@ -1,2 +1,2 @@
 # Ulearn.me
-Repository for Ulearn.me tasks
+Repository for exercises from Ulearn.me

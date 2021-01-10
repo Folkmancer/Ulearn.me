@@ -31,6 +31,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ulearn.me", "Ulearn.me\Ulea
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BenfordStatistics", "BasicsOfProgrammingPartOne\BenfordStatistics\BenfordStatistics.csproj", "{FB21C5BA-86CE-4C3E-A1FC-95A6156950D8}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Painter", "BasicsOfProgrammingPartOne\Painter\Painter.csproj", "{B4C13963-E8EC-4B84-87D6-1EF694B3D24A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -85,6 +87,10 @@ Global
 		{FB21C5BA-86CE-4C3E-A1FC-95A6156950D8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FB21C5BA-86CE-4C3E-A1FC-95A6156950D8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FB21C5BA-86CE-4C3E-A1FC-95A6156950D8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B4C13963-E8EC-4B84-87D6-1EF694B3D24A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B4C13963-E8EC-4B84-87D6-1EF694B3D24A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B4C13963-E8EC-4B84-87D6-1EF694B3D24A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B4C13963-E8EC-4B84-87D6-1EF694B3D24A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -101,6 +107,7 @@ Global
 		{E7F5D985-677D-4246-BA75-4BAE24DF38B5} = {A1B8407B-7531-4B5F-B6E9-685CB741C8A2}
 		{CD7C1D7D-1726-4ECC-B723-FEFACA1526AE} = {6C567BAC-8E83-4C00-8EF9-2E4E6F1C1331}
 		{FB21C5BA-86CE-4C3E-A1FC-95A6156950D8} = {A1B8407B-7531-4B5F-B6E9-685CB741C8A2}
+		{B4C13963-E8EC-4B84-87D6-1EF694B3D24A} = {A1B8407B-7531-4B5F-B6E9-685CB741C8A2}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {83429F85-CFDC-4F03-ADB5-C461D7856E92}
